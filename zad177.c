@@ -5,7 +5,7 @@
 int main()
 {
     long int br,tbr,digit,brojac;
-    int rem;
+    long int rem;
 
     printf("Unesi neki broj: ");
     scanf("%ld",&br);
